@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt; plt.style.use(matplotlib_style)
 import matplotlib.axes as axes;
 from matplotlib.patches import Ellipse
 from mpl_toolkits.mplot3d import Axes3D
+import matplotlib as mpl
 
 import pandas_datareader.data as web
 import seaborn as sns; sns.set_context('notebook')
