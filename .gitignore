@@ -4,4 +4,4 @@
 *.png
 **/.ipynb_checkpoints
 venv/
-.vscode
+.vscode/
